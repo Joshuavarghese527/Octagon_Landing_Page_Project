@@ -26,7 +26,7 @@ Create a landing page with the following elements:
 
 • US States – a drop down list of states
 
-##Extra Credit
+## Extra Credit
 
 Provide server-side code to store form fields data in the database.
 
